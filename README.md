@@ -1,1 +1,1 @@
-# Inverted-Search
+Inverted Search Project — This project reads words from multiple text files given as command-line arguments. Each word is stored in a hash table based on its index, along with details like file name, file count, and word count — similar to how a dictionary works. This makes it easy to store, search, and modify words efficiently within the hash table.
