@@ -59,7 +59,7 @@ typedef enum status
 
 }status;
 
-#define usage_mess puts(C "Usage message: " Re "./a.out file1.txt file2.txt ...")
+#define usage_mess puts(C "Usage message: " Re "./compile.out file1.txt file2.txt ...")
 
 // function prototypes
 status read_validate(char, char *, FILE **);
